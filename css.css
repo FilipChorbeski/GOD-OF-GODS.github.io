@@ -1,3 +1,18 @@
+#buttons{
+    margin: 100px;
+
+}
+#contact{
+    float: right;
+
+}
+
+#about{
+    margin-top: 100px;
+
+}
+
+
 li{
     display: inline-block;
     float: right;
@@ -20,5 +35,10 @@ a{
 body{
     max-width: 1300px;
     margin: auto;
+
+}
+
+iframe{
+    float: right;
 
 }
